@@ -1,0 +1,9 @@
+# view res/layout/activity_main.xml #generated:13
+-keep class android.support.v4.view.PagerTitleStrip { <init>(...); }
+
+# view res/layout/activity_main.xml #generated:1
+-keep class android.support.v4.view.ViewPager { <init>(...); }
+
+# view AndroidManifest.xml #generated:19
+-keep class de.tum.os.drs.HomeActivity { <init>(...); }
+
